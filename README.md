@@ -24,14 +24,4 @@ Content-Type: application/json
   "message": "Hello world!"
 }
  
----
 
-If you want, I can also generate:
-
-- A **screenshots section**  
-- A **demo GIF**  
-- A **setup guide**  
-- A **features table**  
-- A **project logo**  
-
-Just tell me what you want added next.
