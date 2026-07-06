@@ -16,7 +16,7 @@ This project includes:
 
 ### 🔹 Read chat history  
 Returns the latest 50 messages.
-
+https://boom2002.pythonanywhere.com/history
 POST https://boom2002.pythonanywhere.com/chat
 Content-Type: application/json
  {
